@@ -76,5 +76,5 @@ Rails.application.configure do
 
   # Set the default URL options used in mailer views (e.g., links in emails)
   # Here, it points to localhost on port 3000, typical for development
-  config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }
+  config.action_mailer.default_url_options = { host: "localhost", port: 3000 }
 end
